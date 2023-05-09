@@ -7,6 +7,7 @@
 // @downloadURL  https://github.com/HansChristianto/brizy-autosave/raw/main/brz-autosave.user.js
 // @author       https://github.com/HansChristianto/
 // @match        *://*.brizy.cloud/projects/*
+// @match        *://*/wp-admin/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=brizy.cloud
 // @grant        none
 // @run-at document-end
